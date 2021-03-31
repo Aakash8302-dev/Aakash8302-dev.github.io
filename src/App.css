@@ -170,6 +170,10 @@
   margin: 22px 10px;
 }
 
+.iframe{
+  width: 100px;
+}
+
 .card-wrapper{
   display: flex;
   justify-content: center;

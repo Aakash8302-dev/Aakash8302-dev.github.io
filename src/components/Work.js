@@ -2,6 +2,7 @@ import React from 'react'
 import {Container, Row, Col} from 'react-bootstrap'
 import PortCard from './PortCard'
 import tracker from '../images/tracker.png'
+import weatherapp from '../images/weatherapp.png'
 
 const Work = () => {
     return (
@@ -13,7 +14,7 @@ const Work = () => {
                         <PortCard image={tracker} alt="expense-tracker" href="https://aakash8302-dev.github.io/expense-tracking-app/"/>
                     </Col>
                     <Col sm={12} md={4} className="card-wrapper">
-                        <PortCard />
+                        <PortCard image={weatherapp} alt="weather-app" href="https://aakash8302-dev.github.io/weatherapp/" />
                     </Col>
                     <Col sm={12} md={4} className="card-wrapper">
                         <PortCard />
