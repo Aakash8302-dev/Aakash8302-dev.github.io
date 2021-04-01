@@ -22,13 +22,13 @@ const Work = () => {
                 </Row>
                 <Row>
                     <Col sm={12} md={4} className="card-wrapper">
-                        <PortCard />
+                        {/* <PortCard /> */}
                     </Col>
                     <Col sm={12} md={4} className="card-wrapper">
-                        <PortCard />
+                        {/* <PortCard /> */}
                     </Col>
                     <Col sm={12} md={4} className="card-wrapper">
-                        <PortCard />
+                        {/* <PortCard /> */}
                     </Col>
                 </Row>
                 

@@ -18,8 +18,8 @@ const Cv = () => {
                         </div>
                         <div className="cv-info">
                             <h2 className="cv-side-heading">School</h2>
-                            <p className="cv-sub">PSBB Milennium</p>
-                            <p>I'm currently pursuing my undergraduation in Sri Venkateswara College of Engineering</p>
+                            <p className="cv-sub">The PSBB Milennium School</p>
+                            <p>Higher Secondary (2018 - 2020)</p>
                         </div>
                         
                     </Col>

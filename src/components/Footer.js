@@ -11,9 +11,16 @@ const Footer = () => {
 
     return (
         <div id="footer">
-            <span><i class="fab icon fa-instagram"></i></span>
-            <span><i class="fab icon fa-github"></i></span>
-            <span><i class="fab icon fa-linkedin-in"></i></span>
+            <a href="https://www.instagram.com/coding.atlas/" target="_blank" rel="noreferrer noopener">
+                <span><i class="fab icon fa-instagram"></i></span>
+            </a>
+            <a href="https://github.com/Aakash8302-dev" target="_blank" rel="noreferrer noopener">
+                <span><i class="fab icon fa-github"></i></span>
+            </a>
+            <a href="https://www.linkedin.com/in/aakash-arumugam-1626971b4" target="_blank" rel="noreferrer noopener">
+                <span><i class="fab icon fa-linkedin-in"></i></span>
+            </a>
+            
             <div className="rights">
                 AAKASH ARUMUGAM &#169; {currentYear()}
             </div>

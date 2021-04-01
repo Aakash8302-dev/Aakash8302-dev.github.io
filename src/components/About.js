@@ -10,6 +10,12 @@ const About = () => {
                 <Col md={7}> 
                     <h4 id="about-title"><i class="fas about-icon fa-user"></i>   About Me</h4>
                     <p className="about-p">I am Aakash Arumugam a Ist year student currently pursuing a Bachelor in Information Technology at Sri Venkateswara College of Engineering, Chennai.</p>
+                    
+                    <a  target="_blank" rel="noreferrer noopener" href="https://drive.google.com/file/d/1xsin4RnsJbmNENLKLz_K9V7ilmVpl7hX/view?usp=sharing">
+                        <button className="resume-btn" type="button">
+                            Get my Resume
+                        </button>
+                    </a>
                 </Col>
             </Row>
             </Container>
